@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { Dialog } from "@headlessui/react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
-import styles from "./Home.module.css";
 import { Link } from "react-router-dom";
 
 const navigation = [
